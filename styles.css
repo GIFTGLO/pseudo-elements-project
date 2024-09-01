@@ -1,0 +1,28 @@
+li:nth-child(4){
+    font-size:30px;
+    color:crimson;
+}
+li:nth-child(3){
+    font-size:30px;
+    color:blue;
+}
+li:nth-child(2) {
+    font-size: 30px;
+    color:gold;
+}
+li:nth-child(1) {
+    font-size: 30px;
+    color:blueviolet;
+}
+a:hover{
+    color:lawngreen;
+}
+input[type="text1"]{
+    border:10px solid peru;
+}
+input[type="text"] {
+    border: 10px solid palevioletred;
+}
+input[type="password"] {
+    border: 10px solid orange;
+}
